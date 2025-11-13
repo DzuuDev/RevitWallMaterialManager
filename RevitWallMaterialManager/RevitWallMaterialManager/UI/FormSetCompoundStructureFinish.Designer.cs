@@ -105,7 +105,7 @@
             this.tableLayoutPanel2.ColumnCount = 3;
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 44.75655F));
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 55.24345F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 204F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 205F));
             this.tableLayoutPanel2.Controls.Add(this.dgvWalls, 0, 0);
             this.tableLayoutPanel2.Controls.Add(this.tableLayoutPanel4, 1, 0);
             this.tableLayoutPanel2.Controls.Add(this.tableLayoutPanel13, 2, 0);
@@ -128,7 +128,7 @@
             this.dgvWalls.Location = new System.Drawing.Point(3, 3);
             this.dgvWalls.Name = "dgvWalls";
             this.dgvWalls.RowHeadersVisible = false;
-            this.dgvWalls.Size = new System.Drawing.Size(216, 406);
+            this.dgvWalls.Size = new System.Drawing.Size(215, 406);
             this.dgvWalls.TabIndex = 0;
             // 
             // ColumnWalls
@@ -146,7 +146,7 @@
             this.tableLayoutPanel4.Controls.Add(this.tableLayoutPanel5, 0, 0);
             this.tableLayoutPanel4.Controls.Add(this.tableLayoutPanel6, 0, 1);
             this.tableLayoutPanel4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel4.Location = new System.Drawing.Point(225, 3);
+            this.tableLayoutPanel4.Location = new System.Drawing.Point(224, 3);
             this.tableLayoutPanel4.Name = "tableLayoutPanel4";
             this.tableLayoutPanel4.RowCount = 3;
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
@@ -291,7 +291,7 @@
             this.tableLayoutPanel13.Controls.Add(this.tableLayoutPanel14, 0, 4);
             this.tableLayoutPanel13.Controls.Add(this.tableLayoutPanel8, 0, 3);
             this.tableLayoutPanel13.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel13.Location = new System.Drawing.Point(499, 3);
+            this.tableLayoutPanel13.Location = new System.Drawing.Point(498, 3);
             this.tableLayoutPanel13.Name = "tableLayoutPanel13";
             this.tableLayoutPanel13.RowCount = 6;
             this.tableLayoutPanel13.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 13.58025F));
@@ -300,7 +300,7 @@
             this.tableLayoutPanel13.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 13.08642F));
             this.tableLayoutPanel13.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
             this.tableLayoutPanel13.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50.12346F));
-            this.tableLayoutPanel13.Size = new System.Drawing.Size(199, 406);
+            this.tableLayoutPanel13.Size = new System.Drawing.Size(200, 406);
             this.tableLayoutPanel13.TabIndex = 2;
             // 
             // label1
@@ -309,7 +309,7 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(3, 57);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(193, 13);
+            this.label1.Size = new System.Drawing.Size(194, 13);
             this.label1.TabIndex = 1;
             this.label1.Text = "Material Layer";
             // 
@@ -320,7 +320,7 @@
             this.cbbMaterial.FormattingEnabled = true;
             this.cbbMaterial.Location = new System.Drawing.Point(3, 76);
             this.cbbMaterial.Name = "cbbMaterial";
-            this.cbbMaterial.Size = new System.Drawing.Size(193, 21);
+            this.cbbMaterial.Size = new System.Drawing.Size(194, 21);
             this.cbbMaterial.TabIndex = 2;
             // 
             // tableLayoutPanel9
@@ -335,7 +335,7 @@
             this.tableLayoutPanel9.RowCount = 2;
             this.tableLayoutPanel9.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 37.93103F));
             this.tableLayoutPanel9.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 62.06897F));
-            this.tableLayoutPanel9.Size = new System.Drawing.Size(193, 49);
+            this.tableLayoutPanel9.Size = new System.Drawing.Size(194, 49);
             this.tableLayoutPanel9.TabIndex = 7;
             // 
             // label2
@@ -344,7 +344,7 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(3, 2);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(187, 13);
+            this.label2.Size = new System.Drawing.Size(188, 13);
             this.label2.TabIndex = 5;
             this.label2.Text = "Layer type";
             // 
@@ -355,7 +355,7 @@
             this.cbbChooseLayers.FormattingEnabled = true;
             this.cbbChooseLayers.Location = new System.Drawing.Point(3, 21);
             this.cbbChooseLayers.Name = "cbbChooseLayers";
-            this.cbbChooseLayers.Size = new System.Drawing.Size(187, 21);
+            this.cbbChooseLayers.Size = new System.Drawing.Size(188, 21);
             this.cbbChooseLayers.TabIndex = 4;
             this.cbbChooseLayers.SelectedIndexChanged += new System.EventHandler(this.cbbChooseLayers_SelectedIndexChanged);
             // 
@@ -371,13 +371,13 @@
             this.tableLayoutPanel14.Name = "tableLayoutPanel14";
             this.tableLayoutPanel14.RowCount = 1;
             this.tableLayoutPanel14.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel14.Size = new System.Drawing.Size(193, 39);
+            this.tableLayoutPanel14.Size = new System.Drawing.Size(194, 39);
             this.tableLayoutPanel14.TabIndex = 8;
             // 
             // btn_DeleteLayerMaterial
             // 
             this.btn_DeleteLayerMaterial.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.btn_DeleteLayerMaterial.Location = new System.Drawing.Point(96, 0);
+            this.btn_DeleteLayerMaterial.Location = new System.Drawing.Point(97, 0);
             this.btn_DeleteLayerMaterial.Margin = new System.Windows.Forms.Padding(0);
             this.btn_DeleteLayerMaterial.Name = "btn_DeleteLayerMaterial";
             this.btn_DeleteLayerMaterial.Size = new System.Drawing.Size(97, 39);
@@ -392,7 +392,7 @@
             this.btn_ChangeMaterial.Location = new System.Drawing.Point(0, 0);
             this.btn_ChangeMaterial.Margin = new System.Windows.Forms.Padding(0);
             this.btn_ChangeMaterial.Name = "btn_ChangeMaterial";
-            this.btn_ChangeMaterial.Size = new System.Drawing.Size(96, 39);
+            this.btn_ChangeMaterial.Size = new System.Drawing.Size(97, 39);
             this.btn_ChangeMaterial.TabIndex = 3;
             this.btn_ChangeMaterial.Text = "Change material";
             this.btn_ChangeMaterial.UseVisualStyleBackColor = true;
@@ -410,7 +410,7 @@
             this.tableLayoutPanel8.RowCount = 2;
             this.tableLayoutPanel8.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 40F));
             this.tableLayoutPanel8.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 60F));
-            this.tableLayoutPanel8.Size = new System.Drawing.Size(193, 47);
+            this.tableLayoutPanel8.Size = new System.Drawing.Size(194, 47);
             this.tableLayoutPanel8.TabIndex = 9;
             // 
             // label3
@@ -419,7 +419,7 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(3, 2);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(187, 13);
+            this.label3.Size = new System.Drawing.Size(188, 13);
             this.label3.TabIndex = 2;
             this.label3.Text = "Thickness (mm)";
             // 
@@ -429,7 +429,7 @@
             this.tboxInputThickness.Location = new System.Drawing.Point(0, 18);
             this.tboxInputThickness.Margin = new System.Windows.Forms.Padding(0);
             this.tboxInputThickness.Name = "tboxInputThickness";
-            this.tboxInputThickness.Size = new System.Drawing.Size(193, 20);
+            this.tboxInputThickness.Size = new System.Drawing.Size(194, 20);
             this.tboxInputThickness.TabIndex = 3;
             // 
             // tableLayoutPanel3

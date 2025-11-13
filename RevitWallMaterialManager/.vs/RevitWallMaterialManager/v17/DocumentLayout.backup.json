@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1ABC686D-6F06-828C-2992-213CE61EFBE2}|RevitWallMaterialManager\\RevitWallMaterialManager.csproj|D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\revitwallmaterialmanager\\utils\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1ABC686D-6F06-828C-2992-213CE61EFBE2}|RevitWallMaterialManager\\RevitWallMaterialManager.csproj|D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\revitwallmaterialmanager\\ui\\formsetcompoundstructurefinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ABC686D-6F06-828C-2992-213CE61EFBE2}|RevitWallMaterialManager\\RevitWallMaterialManager.csproj|solutionrelative:revitwallmaterialmanager\\ui\\formsetcompoundstructurefinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABC686D-6F06-828C-2992-213CE61EFBE2}|RevitWallMaterialManager\\RevitWallMaterialManager.csproj|D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\revitwallmaterialmanager\\ui\\formsetcompoundstructurecore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1ABC686D-6F06-828C-2992-213CE61EFBE2}|RevitWallMaterialManager\\RevitWallMaterialManager.csproj|solutionrelative:revitwallmaterialmanager\\ui\\formsetcompoundstructurecore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABC686D-6F06-828C-2992-213CE61EFBE2}|RevitWallMaterialManager\\RevitWallMaterialManager.csproj|d:\\my_project_demo\\revitwallmaterialmanager\\revitwallmaterialmanager\\utils\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1ABC686D-6F06-828C-2992-213CE61EFBE2}|RevitWallMaterialManager\\RevitWallMaterialManager.csproj|solutionrelative:revitwallmaterialmanager\\utils\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1ABC686D-6F06-828C-2992-213CE61EFBE2}|RevitWallMaterialManager\\RevitWallMaterialManager.csproj|D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\revitwallmaterialmanager\\ui\\formsetcompoundstructurefinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1ABC686D-6F06-828C-2992-213CE61EFBE2}|RevitWallMaterialManager\\RevitWallMaterialManager.csproj|solutionrelative:revitwallmaterialmanager\\ui\\formsetcompoundstructurefinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ABC686D-6F06-828C-2992-213CE61EFBE2}|RevitWallMaterialManager\\RevitWallMaterialManager.csproj|d:\\my_project_demo\\revitwallmaterialmanager\\revitwallmaterialmanager\\ui\\formsetcompoundstructurefinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1ABC686D-6F06-828C-2992-213CE61EFBE2}|RevitWallMaterialManager\\RevitWallMaterialManager.csproj|solutionrelative:revitwallmaterialmanager\\ui\\formsetcompoundstructurefinish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ABC686D-6F06-828C-2992-213CE61EFBE2}|RevitWallMaterialManager\\RevitWallMaterialManager.csproj|D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\revitwallmaterialmanager\\ui\\formsetcompoundstructurecore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1ABC686D-6F06-828C-2992-213CE61EFBE2}|RevitWallMaterialManager\\RevitWallMaterialManager.csproj|solutionrelative:revitwallmaterialmanager\\ui\\formsetcompoundstructurecore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1ABC686D-6F06-828C-2992-213CE61EFBE2}|RevitWallMaterialManager\\RevitWallMaterialManager.csproj|D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\revitwallmaterialmanager\\command\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "FormSetCompoundStructureCore.cs [Design]",
               "DocumentMoniker": "D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\RevitWallMaterialManager\\UI\\FormSetCompoundStructureCore.cs",
               "RelativeDocumentMoniker": "RevitWallMaterialManager\\UI\\FormSetCompoundStructureCore.cs",
@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "RevitWallMaterialManager\\UI\\FormSetCompoundStructureFinish.Designer.cs",
               "ToolTip": "D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\RevitWallMaterialManager\\UI\\FormSetCompoundStructureFinish.Designer.cs",
               "RelativeToolTip": "RevitWallMaterialManager\\UI\\FormSetCompoundStructureFinish.Designer.cs",
-              "ViewState": "AgIAAAYCAAAAAAAAAAAnwBoCAABKAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAABRwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T02:00:52.651Z",
               "EditorCaption": ""
@@ -95,8 +95,7 @@
               "RelativeToolTip": "RevitWallMaterialManager\\WallSetter\\SetCompoundStructureFinish.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:50:01.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:50:01.968Z"
             },
             {
               "$type": "Document",
@@ -106,20 +105,20 @@
               "RelativeDocumentMoniker": "RevitWallMaterialManager\\UI\\FormSetCompoundStructureCore.Designer.cs",
               "ToolTip": "D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\RevitWallMaterialManager\\UI\\FormSetCompoundStructureCore.Designer.cs",
               "RelativeToolTip": "RevitWallMaterialManager\\UI\\FormSetCompoundStructureCore.Designer.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAnwI8AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAABRwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T08:05:16.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FormSetCompoundStructureFinish.cs",
               "DocumentMoniker": "D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\RevitWallMaterialManager\\UI\\FormSetCompoundStructureFinish.cs",
               "RelativeDocumentMoniker": "RevitWallMaterialManager\\UI\\FormSetCompoundStructureFinish.cs",
               "ToolTip": "D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\RevitWallMaterialManager\\UI\\FormSetCompoundStructureFinish.cs",
               "RelativeToolTip": "RevitWallMaterialManager\\UI\\FormSetCompoundStructureFinish.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwBAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAACkBAAAAAAAAAEBUwCwBAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T07:25:18.002Z",
               "EditorCaption": ""
@@ -134,8 +133,7 @@
               "RelativeToolTip": "RevitWallMaterialManager\\Utils\\Define.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T06:49:22.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T06:49:22.88Z"
             },
             {
               "$type": "Document",
@@ -147,38 +145,37 @@
               "RelativeToolTip": "RevitWallMaterialManager\\WallSetter\\SetCompoundStructureCore.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T06:36:19.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T06:36:19.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Common.cs",
               "DocumentMoniker": "D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\RevitWallMaterialManager\\Utils\\Common.cs",
               "RelativeDocumentMoniker": "RevitWallMaterialManager\\Utils\\Common.cs",
               "ToolTip": "D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\RevitWallMaterialManager\\Utils\\Common.cs",
               "RelativeToolTip": "RevitWallMaterialManager\\Utils\\Common.cs",
-              "ViewState": "AgIAAIQBAAAAAAAAAAAAAJUBAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAHEBAAAAAAAAAAAYwI0BAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T04:16:16.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FormSetCompoundStructureCore.cs",
               "DocumentMoniker": "D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\RevitWallMaterialManager\\UI\\FormSetCompoundStructureCore.cs",
               "RelativeDocumentMoniker": "RevitWallMaterialManager\\UI\\FormSetCompoundStructureCore.cs",
               "ToolTip": "D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\RevitWallMaterialManager\\UI\\FormSetCompoundStructureCore.cs",
               "RelativeToolTip": "RevitWallMaterialManager\\UI\\FormSetCompoundStructureCore.cs",
-              "ViewState": "AgIAANMAAAAAAAAAAAAAAPcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAPUAAAAAAAAAAIBJwPcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T06:32:08.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "FormSetCompoundStructureFinish.cs [Design]",
               "DocumentMoniker": "D:\\MY_PROJECT_DEMO\\RevitWallMaterialManager\\RevitWallMaterialManager\\UI\\FormSetCompoundStructureFinish.cs",
               "RelativeDocumentMoniker": "RevitWallMaterialManager\\UI\\FormSetCompoundStructureFinish.cs",
@@ -198,8 +195,7 @@
               "RelativeToolTip": "RevitWallMaterialManager\\Command\\Command.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAxwC0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T02:47:01.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T02:47:01.326Z"
             }
           ]
         }
